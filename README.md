@@ -3,6 +3,14 @@
 ![Sameer Narkhede](https://github.com/narkhedesam/narkhedesam/blob/master/sam.jpg "Sameer")
 
 :desert_island:Living in Pune, Maharashtra :india:
+<br/><br/>
+I'm Passionate Web Developer with knowledge of various technologies.<br/>
+HTML5, CSS, JavaScript, JQuery, JSP, JAVA, Hibernate, JPA, Spring-Boot and more!
+
+Also, Interested in python.<br/>coz it's very simple and interesting language.<br/>
+I'm lil bit crazy about python.
+
+- 📫 How to reach me: [Sameer Narkhede](mailto:narkhedesam@gmail.com?subject=[GitHub]%20From%20Profile)
 
 ### My Tech Stack
 
