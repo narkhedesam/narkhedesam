@@ -1,9 +1,14 @@
 ## Hi I'm Sameer Narkhede 👋
 
-![Sameer Narkhede](https://github.com/narkhedesam/narkhedesam/blob/master/sam.jpg "Sameer")
+<!-- ![Sameer Narkhede](https://github.com/narkhedesam/narkhedesam/blob/master/sam.jpg "Sameer") -->
 
 :desert_island:Living in Pune, Maharashtra :india:
 <br/><br/>
+<p align="center">
+	<a href="https://github.com/narkhedesam"><img src="https://img.shields.io/github/followers/narkhedesam.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/narkhedesam"><img src="https://img.shields.io/twitter/follow/narkhedesam?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="www.linkedin.com/in/sameer-narkhede"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
 I'm Passionate Web Developer with knowledge of various technologies.<br/>
 HTML5, CSS, JavaScript, JQuery, JSP, JAVA, Hibernate, JPA, Spring-Boot and more!
 
