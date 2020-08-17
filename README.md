@@ -16,7 +16,9 @@ Also, Interested in python.<br/>coz it's very simple and interesting language.<b
 I'm lil bit crazy about python.
 
 - 📫 How to reach me: [Sameer Narkhede](mailto:narkhedesam@gmail.com?subject=[GitHub]%20From%20Profile)
-
+<br/><br/><br/>
+![Sameer's github stats](https://github-readme-stats.vercel.app/api?username=narkhedesam&show_icons=true)
+<br/><br/><br/>
 ### My Tech Stack
 
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
