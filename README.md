@@ -16,6 +16,12 @@ Also, Interested in python.<br/>coz it's very simple and interesting language.<b
 I'm lil bit crazy about python.
 
 - 📫 How to reach me: [Sameer Narkhede](mailto:narkhedesam@gmail.com?subject=[GitHub]%20From%20Profile)
+- Gravatar Profile : [Gravatar Profile](https://en.gravatar.com/sameernarkhede)
+- Gravatar Profile JSON : [JSON](https://en.gravatar.com/sameernarkhede.json)	
+- Gravatar Profile VCF : [VCF](https://en.gravatar.com/sameernarkhede.vcf)
+- Gravatar Profile XML : [XML](https://en.gravatar.com/sameernarkhede.xml)
+
+![QR](https://en.gravatar.com/sameernarkhede.qr)
 <br/><br/><br/>
 ![Sameer's github stats](https://github-readme-stats.vercel.app/api?username=narkhedesam&show_icons=true)
 <br/><br/><br/>
