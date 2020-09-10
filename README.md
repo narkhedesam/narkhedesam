@@ -9,17 +9,16 @@
 	<a href="https://twitter.com/narkhedesam"><img src="https://img.shields.io/twitter/follow/narkhedesam?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="www.linkedin.com/in/sameer-narkhede"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
-I'm Passionate Web Developer with knowledge of various technologies.<br/>
-HTML5, CSS, JavaScript, JQuery, JSP, JAVA, Hibernate, JPA, Spring-Boot and more!
-
-Also, Interested in python.<br/>coz it's very simple and interesting language.<br/>
-I'm lil bit crazy about python.
+I'm a web developer who aims to combine the beauty of design with the logical perfection of coding. <br/>
+Training myself every day and pushing my own limits to discover new ways of creating a great experience for the users.
+<br/>
 
 - 📫 How to reach me: [Sameer Narkhede](mailto:narkhedesam@gmail.com?subject=[GitHub]%20From%20Profile)
 - Gravatar Profile : [Gravatar Profile](https://en.gravatar.com/sameernarkhede)
 - Gravatar Profile JSON : [JSON](https://en.gravatar.com/sameernarkhede.json)	
 - Gravatar Profile VCF : [VCF](https://en.gravatar.com/sameernarkhede.vcf)
 - Gravatar Profile XML : [XML](https://en.gravatar.com/sameernarkhede.xml)
+#### scan this qr code to get link for Gravatar Profile
 
 ![QR](https://en.gravatar.com/sameernarkhede.qr)
 <br/><br/><br/>
@@ -45,9 +44,7 @@ I'm lil bit crazy about python.
 
 #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
 
 ![Eclipse](http://img.shields.io/badge/-Eclipse-2c225500?style=flat-square&logo=eclipse&logoColor=2c2255)
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
