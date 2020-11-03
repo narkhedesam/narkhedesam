@@ -15,9 +15,9 @@
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="II" width="20" height="20" /> 
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20" />
 </p>
-- I'm a web developer who aims to combine the beauty of design with the logical perfection of coding.
 
-- Training myself every day and pushing my own limits to discover new ways of creating a great experience for the users.
+I'm a web developer who aims to combine the beauty of design with the logical perfection of coding.
+<br/>Training myself every day and pushing my own limits to discover new ways of creating a great experience for the users.
 
 - 💻 Passionate Software Engineer and Open Source contributor
 
