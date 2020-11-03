@@ -1,55 +1,49 @@
-## Hi I'm Sameer Narkhede 👋
+<img src="https://raw.githubusercontent.com/narkhedesam/narkhedesam/master/banner_top_new.png" alt="Hero image">
 
-<!-- ![Sameer Narkhede](https://github.com/narkhedesam/narkhedesam/blob/master/sam.jpg "Sameer") -->
-
-:desert_island:Living in Pune, Maharashtra :india:
-<br/><br/>
 <p align="center">
-	<a href="https://github.com/narkhedesam"><img src="https://img.shields.io/github/followers/narkhedesam.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/narkhedesam"><img src="https://img.shields.io/twitter/follow/narkhedesam?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="www.linkedin.com/in/sameer-narkhede"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <img src="https://komarev.com/ghpvc/?username=narkhedesam" alt="narkhedesam" />
+
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="20" height="20" />
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring-boot" width="20" height="20"/>
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="angular" width="20" height="20"/>
+  <img src="https://img.icons8.com/ios/50/000000/mysql-logo.png" alt="MySQL" width="20" height="20"/>
+  <img src="https://img.icons8.com/officel/50/000000/java-eclipse.png" alt="Java Eclipse" width="20" height="20"/>
+  <!-- <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="kotlin" width="20" height="20" /> -->
+  <!-- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws" width="20" height="20" />  -->
+  <!-- <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" alt="gcp" width="20" height="20" /> -->
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20" /> 
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="II" width="20" height="20" /> 
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20" />
 </p>
-I'm a web developer who aims to combine the beauty of design with the logical perfection of coding. <br/>
-Training myself every day and pushing my own limits to discover new ways of creating a great experience for the users.
-<br/>
+- I'm a web developer who aims to combine the beauty of design with the logical perfection of coding.
 
-- 📫 How to reach me: [Sameer Narkhede](mailto:narkhedesam@gmail.com?subject=[GitHub]%20From%20Profile)
-- Gravatar Profile : [Gravatar Profile](https://en.gravatar.com/sameernarkhede)
-- Gravatar Profile JSON : [JSON](https://en.gravatar.com/sameernarkhede.json)	
-- Gravatar Profile VCF : [VCF](https://en.gravatar.com/sameernarkhede.vcf)
-- Gravatar Profile XML : [XML](https://en.gravatar.com/sameernarkhede.xml)
-#### scan this qr code to get link for Gravatar Profile
+- Training myself every day and pushing my own limits to discover new ways of creating a great experience for the users.
 
-![QR](https://en.gravatar.com/sameernarkhede.qr)
-<br/><br/><br/>
-![Sameer's github stats](https://github-readme-stats.vercel.app/api?username=narkhedesam&show_icons=true)
-<br/><br/><br/>
-### My Tech Stack
+- 💻 Passionate Software Engineer and Open Source contributor
 
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
-![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
-![Python](http://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
+- 📊 All of my projects are available [here](https://github.com/narkhedesam?tab=repositories)
 
-#### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![JQuery](https://img.shields.io/badge/-JQuery-%23F7DF1C?style=flat-square&logo=JQuery&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&logoColor=ffffff)
+- 💬 Don't hesitate to contact me
 
-#### Database
-![MySQL](http://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=MySQL&logoColor=ffffff)
-![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=narkhedesam&show_icons=true" alt="narkhedesam" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=narkhedesam&hide=html,css" alt="narkhedesam" height="200" />
+</p>
 
-#### Others
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sameer-narkhede/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sameer-narkhede/" height="20" width="20" />
+  </a>
+  <a href="https://www.facebook.com/narkhedesam" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/narkhedesam" height="20" width="20" />
+  </a>
+  <a href="https://www.instagram.com/sam_narkhede/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/sam_narkhede/" height="20" width="20" />
+  </a>
+  <a href="https://t.me/narkhedesam" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="https://t.me/narkhedesam" height="20" width="20" />
+  </a>
 
-![Eclipse](http://img.shields.io/badge/-Eclipse-2c225500?style=flat-square&logo=eclipse&logoColor=2c2255)
-![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+</p>
 
-
-![Linux](http://img.shields.io/badge/-Linux-A81D33?style=flat-square&logo=linux&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+<img src="https://raw.githubusercontent.com/narkhedesam/narkhedesam/master/banner_footer_new.png" alt="Hero image">
