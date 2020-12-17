@@ -24,7 +24,7 @@
 
 - 📊 All of my projects are available [here](https://github.com/narkhedesam?tab=repositories)
 
-- 💬 Don't hesitate to contact me
+- 💬 Don't hesitate to contact me &nbsp;<a href="mailto:narkhedesam@gmail.com?subject=[GitHub] Contact Sameer Narkhede"><img src="https://img.icons8.com/color/48/000000/gmail.png" height="20px"/></a>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=narkhedesam&show_icons=true" alt="narkhedesam" height="200" />
